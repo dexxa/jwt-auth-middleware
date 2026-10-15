@@ -1,0 +1,8 @@
+{
+  "name": "jwt-auth-middleware",
+  "version": "0.2.0",
+  "main": "middleware/auth.js",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.0"
+  }
+}
